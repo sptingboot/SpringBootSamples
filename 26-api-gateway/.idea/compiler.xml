@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway" />
+        <module name="auth-service" />
+        <module name="config" />
+        <module name="eureka-server" />
+        <module name="gateway" />
+        <module name="monitor" />
+        <module name="registry" />
+        <module name="service-A" />
+        <module name="service-B" />
+        <module name="svca-service" />
+        <module name="svcb-service" />
+        <module name="zipkin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="async" target="1.8" />
+      <module name="auth-service" target="1.8" />
+      <module name="cache-ehcache" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="kafka" target="1.6" />
+      <module name="log4j-env-level" target="1.8" />
+      <module name="log4j-mongodb" target="1.8" />
+      <module name="monitor" target="1.8" />
+      <module name="mybatis" target="1.8" />
+      <module name="rabbit-mq" target="1.8" />
+      <module name="registry" target="1.8" />
+      <module name="service-A" target="1.8" />
+      <module name="service-B" target="1.8" />
+      <module name="spring-boot-cloud" target="1.8" />
+      <module name="spring-security" target="1.8" />
+      <module name="svca-service" target="1.8" />
+      <module name="svcb-service" target="1.8" />
+      <module name="zipkin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

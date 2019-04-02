@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/26-api-gateway.iml" filepath="$PROJECT_DIR$/.idea/26-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/auth-service/auth-service.iml" filepath="D:/spring-boot-cloud-master/auth-service/auth-service.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/config/config.iml" filepath="D:/spring-boot-cloud-master/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/gateway/gateway.iml" filepath="D:/spring-boot-cloud-master/gateway/gateway.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/monitor/monitor.iml" filepath="D:/spring-boot-cloud-master/monitor/monitor.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/registry/registry.iml" filepath="D:/spring-boot-cloud-master/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-A/service-A.iml" filepath="$PROJECT_DIR$/service-A/service-A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-B/service-B.iml" filepath="$PROJECT_DIR$/service-B/service-B.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/spring-boot-cloud.iml" filepath="D:/spring-boot-cloud-master/spring-boot-cloud.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/svca-service/svca-service.iml" filepath="D:/spring-boot-cloud-master/svca-service/svca-service.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/svcb-service/svcb-service.iml" filepath="D:/spring-boot-cloud-master/svcb-service/svcb-service.iml" />
+      <module fileurl="file://D:/spring-boot-cloud-master/zipkin/zipkin.iml" filepath="D:/spring-boot-cloud-master/zipkin/zipkin.iml" />
+    </modules>
+  </component>
+</project>
